@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         EmprestimoDAO dao = new EmprestimoDAO();
         Scanner teclado = new Scanner(System.in);
-        String dataHoje = "05/05/2026"; // Alinhado com o seu script
+        String dataHoje = "05/05/2026"; 
 
         System.out.println("===== GESTÃO DE LABORATÓRIO IFPA =====");
 
